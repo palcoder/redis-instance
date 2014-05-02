@@ -1,7 +1,7 @@
 redis-instance
 ==============
 
-A script to set up multiple Redis instance on the same machine.
+A script to set up multiple Redis instances on the same machine.
 
 **Notes:**
 - You need to run the script as root.
