@@ -17,5 +17,5 @@ A script to set up multiple Redis instance on the same machine.
 
 Will create an new instance called redis-session listening on the port 5412
 
-**Author:
+**Author:**
 Mohammed Abdallah <palcoder1@gmail.com>
