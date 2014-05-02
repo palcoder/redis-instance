@@ -17,7 +17,7 @@
 # Notes:
 #	1.You need to run the script as root.
 #	2.This script is tested only on Debian
-#	3.This script copy a orginal config of Redis instance
+#	3.This script copy the orginal config of Redis instance
 
 # Usage:
 #
